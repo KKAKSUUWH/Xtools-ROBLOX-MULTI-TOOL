@@ -31,47 +31,59 @@ XTOOLS is engineered using top-tier threading logic, similar to that used in **S
 | 🖥️ **Modern UI & UX** | Super user-friendly interface with premium support. |
 
 ---
+## 🧰 Tool Categories & Features
 
-## 🧰 Full Tool Suite
+### 👤 Account Management
+- **Account Generator** – Generate and cookie new Roblox accounts  
+- **Account Checker** – Check credentials and brute accounts  
+- **Account Humanizer** – Simulate human behavior  
+- **Account Killer & Refresher** – Remove and replace dead cookies  
+- **Password Changer** – Mass password switcher  
+- **Email Verifier** – Verify account emails  
+- **Phone Verifier** – Verify phone numbers  
+- **Cookie Checker** – Validates stored cookies  
 
-### 👥 Account & Identity
-- ✅ Account Generator  
-- 🔍 Account Checker  
-- 👤 Account Humanizer  
-- 📧 Email Verifier  
-- 📞 Phone Verifier  
-- 🔁 Password Changer  
-- 🔪 Account Killer & Refresher  
+### 👥 Social & Engagement
+- **Mass Friender** – Send mass friend requests  
+- **Mass Follower** – Auto-follow users at scale  
+- **Mass Display Changer** – Change display names in bulk  
+- **Auto Social Link Setter** – Set social links on profiles/pages  
 
-### 🤖 Automation & Bots
-- 🧑‍🤝‍🧑 Mass Friender  
-- 📈 Mass Follower  
-- 🏘️ Group Botter  
-- 🧱 Group Wall Spammer  
-- 🔍 Group Sniper  
-- 🎯 Account Sniper  
+### 🧑‍🤝‍🧑 Groups
+- **Group Botter** – Join bots into groups  
+- **Group Wall Spammer** – Post messages to group walls  
+- **Group Sniper** – Claim open Roblox groups  
+- **Mass Leaver** – Leave multiple groups instantly  
 
-### 🏗️ Assets & Publishing
-- ⬆️ Place Auto Uploader  
-- 🧩 Model Auto Uploader  
-- ⭐ Place Mass Favorite  
-- 💰 Gamepass Buyer  
-- 🧍‍♂️ Mass Display Changer  
+### 🧱 Assets & Games
+- **Place Auto Uploader** – Upload .rbxl files  
+- **Model Auto Uploader** – Upload .rbxm files  
+- **Place Mass Favorite** – Favorite multiple places  
+- **Mass Up/Down Voter** – Vote manipulation on models  
+- **Gamepass Buyer** – Purchase Gamepasses automatically  
+- **Private Server Generator** – Create private servers in bulk  
+- **Asset Inserter** – Boost asset visibility in toolbox  
+- **Clothing Scraper** – Scrape clothing (shirts/pants) from groups  
 
-### 🔐 Security & Utilities
-- 🍪 Cookie Checker  
-- 📲 UpcToCookie  
-- ⚖️ Check Solver Balance  
-- ☁️ Server Mode  
-- 💸 Robux Drainer  
+### 💰 Monetization & Exploits
+- **Robux Drainer** – Extract Robux from accounts  
+- **Account Sniper** – Snipe + auto-claim desired usernames  
+- **Mass Reporter** – Report accounts/games/groups in bulk  
+- **UpcToCookie** – Convert UPCs to usable cookies  
+
+### 🧰 Utilities & Tools
+- **Open Input Folder** – Access your input folder quickly  
+- **Open Output Folder** – Open your results folder  
+- **Open Config Folder** – Easily modify configurations  
+- **Check Solver Balance** – View available captcha solver credits  
 
 ---
 
 ## 🖼️ Screenshots
 
-| Dashboard | Tool Example | Config Panel |
+| Dashboard | Tool Example | Tool Panel |
 |----------|--------------|--------------|
-| ![Dashboard](https://your-image-url.com/dashboard.png) | ![Tool UI](https://your-image-url.com/tool-ui.png) | ![Config](https://your-image-url.com/config.png) |
+| ![Dashboard](https://i.imgur.com/JT5yJ8Z.png) | ![Tool UI](https://i.imgur.com/opaj23S.png) | ![Tools](https://github.com/user-attachments/assets/7072a15d-769b-4761-8fff-6e51e9894a41) |
 
 ---
 
@@ -79,9 +91,8 @@ XTOOLS is engineered using top-tier threading logic, similar to that used in **S
 
 Have questions or need a custom tool built?
 
-📨 **Email:** xtools@support.com  
-💬 **Discord:** [Join Server](https://your-discord-invite.com)  
-🌍 **Website:** [xtools.io](https://xtools.io)
+💬 **Discord:** [Join Server](https://discord.gg/xtools)  
+🌍 **Website:** [xtools.io](https://xtools.ink)
 
 ---
 

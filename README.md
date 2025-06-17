@@ -94,8 +94,8 @@ Have questions or need a custom tool built?
 💬 **Discord:** [Join Server](https://discord.gg/ajgUhUHEmG)  
 🌍 **Website:** [xtools.ink](https://xtools.ink)
 
-[![Join Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://your-discord-invite.com)
-[![Visit Website](https://img.shields.io/badge/Visit%20Website-1E1E1E?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://xtools.io)
+[![Join Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ajgUhUHEmG)
+[![Visit Website](https://img.shields.io/badge/Visit%20Website-1E1E1E?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://xtools.ink)
 [![Purchase XTOOLS](https://img.shields.io/badge/Purchase%20XTOOLS-4CAF50?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://xtools.mysellauth.com/product/xtools)
 
 ---

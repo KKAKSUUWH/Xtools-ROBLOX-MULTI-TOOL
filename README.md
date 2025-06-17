@@ -1,6 +1,6 @@
 # 🚀 XTOOLS - Lifetime Access
 
-![XTOOLS Banner](https://github.com/user-attachments/assets/0710dcc8-a41a-4c9b-99ce-dbc91fb3f198)
+![XTOOLS Banner](https://github.com/user-attachments/assets/07ec40e8-bb7a-4b07-9796-9c19db299d17)
 
 > **XTOOLS** is a high-performance Roblox multitool built with commercial-grade logic. Automate, scale, and dominate the Roblox platform — all in one tool.
 
@@ -94,6 +94,8 @@ Have questions or need a custom tool built?
 💬 **Discord:** [Join Server](https://discord.gg/xtools)  
 🌍 **Website:** [xtools.io](https://xtools.ink)
 
+[![Join Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xtools)
+[![Visit Website](https://img.shields.io/badge/Visit%20Website-1E1E1E?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://xtools.ink)
 ---
 
 > ⚠️ **Disclaimer:** XTOOLS is for educational and authorized testing purposes only. The developer is not responsible for misuse.

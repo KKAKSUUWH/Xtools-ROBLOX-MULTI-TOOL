@@ -92,7 +92,7 @@ XTOOLS is engineered using top-tier threading logic, similar to that used in **S
 Have questions or need a custom tool built?
 
 💬 **Discord:** [Join Server](https://discord.gg/xtools)  
-🌍 **Website:** [xtools.io](https://xtools.ink)
+🌍 **Website:** [xtools.ink](https://xtools.ink)
 
 [![Join Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xtools)
 [![Visit Website](https://img.shields.io/badge/Visit%20Website-1E1E1E?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://xtools.ink)

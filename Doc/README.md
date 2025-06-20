@@ -1,115 +1,99 @@
-# Roblox Account Generator Setup Guide
+# 🛠️ Xtools Roblox Account Generator 
+![Banner](https://via.placeholder.com/800x200.png?text=Xtools+Roblox+Generator+🚀) *<!-- Consider adding actual banner image -->*
 
-## 🖥️ System Requirements
-- **Windows 10/11** (64-bit)
-- **Node.js 16+** [Download](https://nodejs.org/)
-- **Dedicated folder** for the application files
+## 📦 System Requirements
+| Component | Specification |
+|-----------|---------------|
+| OS        | Windows 10/11 (64-bit) |
+| Runtime   | Node.js 16+ [⬇ Download](https://nodejs.org/) |
+| Storage   | Dedicated folder with write permissions |
 
-## 🛠️ Installation & Setup
-1. **Create Application Folder**
-   ```bash
-   mkdir Xtools
-   cd Xtools
-   ```
-2. **Install Prerequisites**
-   - Install Node.js using default settings
+## 🚀 Installation & Setup
 
-3. **Application Setup**
-   - Place these files in your folder:
-     - `XtoolsV1.1.exe`
-     - `input/config.json`
-     - `input/proxies.txt`
-   - Folder structure should look like:
-     ```
-     Xtools/
-     ├── XtoolsV1.1.exe
-     └── Config/
-         └── XtoolsConfig.json
-     ```
+### 1. Folder Preparation
+```powershell
+📁> mkdir Xtools
+📁> cd Xtools
+```
 
-**Proxy Configuration (proxies.txt)**
-Supported formats:
-```plaintext
-# Protocol-prefixed formats:
-socks5://ip:port
-socks5h://ip:port
-http://ip:port
-https://ip:port
+### 2. Prerequisite Installation
+```mermaid
+flowchart LR
+    A[Download Node.js] --> B[Run Installer] --> C[Check Version]
+    C --> node -v
+```
 
-# Authentication formats:
-socks5://user:pass@ip:port
+### 3. File Structure Setup
+```folder-structure
+Xtools/
+├── 🚀 XtoolsV1.1.exe
+├── 📁 Config/
+│   └── ⚙️ XtoolsConfig.json
+├── 📁 Input/
+│   ├── 📄 config.json
+│   └── 📄 proxies.txt
+└── 📁 Output/
+    └── 📄 generated_accounts.txt
+```
+
+## 🌐 Proxy Configuration Guide
+```diff
+! IMPORTANT GEOGRAPHIC WARNING !
++ Always specify exact regions/cities to maintain cookie validity
+- Avoid generic geographic locations
+```
+
+### 📝 proxies.txt Formats
+```proxy-examples
+# Premium Format (Recommended)
+socks5://user:pass@ip:port#country-region-city
+🌍 Example: socks5://admin:secure@45.67.89.1:1080#us-california-los_angeles
+
+# Basic Formats
 http://user:pass@ip:port
 ip:port:user:pass
-
-# Simplified formats:
-ip:port
-ip:port:user:pass
 ```
 
-**Recommendations:**
-1. Prefer SOCKS5 proxies for better performance
-2. For authenticated proxies use:
-   ```plaintext
-   socks5://username:password@ip:port
-   ```
-3. File example:
-   ```plaintext
-   socks5://127.0.0.1:1080
-   192.168.1.100:8080:user1:pass1
-   proxy.example.com:3128
-   ```
-
-## 🔑 Initial Configuration
-1. **Claim Your License Key**
-   - In our Discord server, type: `/claim YOUR_LICENSE`
-   - You'll claim your key
-
-2. **Configure XtoolsConfig.json**
-   ```json
-   {
-       "LicenseKey": "YOUR_LICENSE",
-   }
-   ```
-
-## 🚨 Common Issues & Solutions
-
-### ❌ Program Closes Immediately
-**Fix:**
-1. Right-click `XtoolsV1.1.exe` > "Run as administrator"
-2. Verify folder structure matches requirements
-3. Ensure you claimed and added and saved the config json
-4. Ensure you are not running any reverse engineering software
-5. Hwid matches the hwid used before
-6. Disable antivirus/firewall if experiencing false positives
-
-### ❌ "Invalid Hardware ID" Error
-**Resolution:**
-```bash
-# In Discord:
-/request-hwid-reset
-```
-Contact @Admin in Discord if issues persist
-
-
-## 🔄 HWID Management
-- Keys are permanently bound to your hardware
-- For hardware changes:
-  ```bash
-  # Discord command:
-  /request-hwid-reset
+### ⭐ Best Practices
+- 🔐 Use authenticated proxies
+- 🌆 Match proxy location to account region
+- 🛡️ Sticky proxies
+- 📍 Example Configuration:
+  ```plaintext
+  socks5://user1:pass1@203.0.113.5:1080#de-berlin-berlin
+  http://proxyuser:12345@198.51.100.3:8080#fr-ile_de_france-paris
   ```
-- Admins will process reset requests within 24 hours
 
+## 🔐 License Configuration
+```jsonc
+// XtoolsConfig.json
+{
+  "LicenseKey": "YOUR_LICENSE_KEY", // Claim with /claim in Discord
+}
+```
 
-## 📌 Important Notes
-- Never share your `XtoolsConfig.json` file or license key
-- Keep application files in their original folder
-- Disable antivirus/firewall if experiencing false positives
+## 🚨 Troubleshooting Guide
 
-## 🆘 Support
-Create a ticket in our Discord Server with:
-1. Error screenshot
-2. `config.json` (redact your rosolve key)
-3. System specs
+### 🛑 Common Issues
+| Issue                      | Solution                      | Emergency Command       |
+|----------------------------|-------------------------------|-------------------------|
+| Program closes immediately | Run as Administrator          | `./XtoolsV1.1 --verify` |
+| Invalid HWID               | Request HWID reset in Discord | `/request-hwid-reset`   |
+| Proxy validation failed    | Check geographic tags         | `--skip-proxy-check`    |
 
-[![Join Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ajgUhUHEmG)
+## 📜 Policy & Security
+```diff
++ DO: Keep config files secure
++ DO: Use geographic-specific proxies
+- DON'T: Share license keys
+- DON'T: Modify executable files
+```
+
+## 🆘 Support Channels
+```contact-cards
+• Discord: [![Chat](https://img.shields.io/badge/Support_Chat-5865F2?style=flat&logo=discord)](https://discord.gg/ajgUhUHEmG)
+• Email: support@xtools.com
+• Knowledge Base: docs.xtools.com
+```
+
+[![Open in Visual Studio Code](https://img.shields.io/badge/Open_in-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)](vscode://file/C:/Xtools)

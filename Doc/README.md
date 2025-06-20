@@ -108,9 +108,8 @@ ip:port:user:pass
 
 ## 🆘 Support Channels
 ```contact-cards
-• Discord: [![Chat](https://img.shields.io/badge/Support_Chat-5865F2?style=flat&logo=discord)](https://discord.gg/ajgUhUHEmG)
-• Email: support@xtools.com
-• Knowledge Base: docs.xtools.com
+• Discord: https://discord.gg/xtools
+• Email: info@xtools.ink
 ```
 
 [![Join Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ajgUhUHEmG)

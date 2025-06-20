@@ -43,7 +43,7 @@ ip:port:user:pass
 
 # Simplified formats:
 ip:port
-ip:port:user:pass  # (auto-detected as SOCKS5)
+ip:port:user:pass
 ```
 
 **Recommendations:**

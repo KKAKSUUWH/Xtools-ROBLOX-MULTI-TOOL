@@ -76,9 +76,9 @@ ip:port:user:pass
 ## 🚨 Troubleshooting Guide
 
 ### 🛑 Common Issues
-| Issue                      | Solution                      | Emergency Command       |
+| Issue                      | Solution                      | Emergency Fix           |
 |----------------------------|-------------------------------|-------------------------|
-| Program closes immediately | Run as Administrator          | `./XtoolsV1.1 --verify` |
+| Program closes immediately | Run as Administrator          | `contact support at discord` |
 | Invalid HWID               | Request HWID reset in Discord | `/request-hwid-reset`   |
 | Proxy validation failed    | Check geographic tags         | `--skip-proxy-check`    |
 

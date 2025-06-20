@@ -27,6 +27,38 @@
          └── XtoolsConfig.json
      ```
 
+**Proxy Configuration (proxies.txt)**
+Supported formats:
+```plaintext
+# Protocol-prefixed formats:
+socks5://ip:port
+socks5h://ip:port
+http://ip:port
+https://ip:port
+
+# Authentication formats:
+socks5://user:pass@ip:port
+http://user:pass@ip:port
+ip:port:user:pass
+
+# Simplified formats:
+ip:port
+ip:port:user:pass  # (auto-detected as SOCKS5)
+```
+
+**Recommendations:**
+1. Prefer SOCKS5 proxies for better performance
+2. For authenticated proxies use:
+   ```plaintext
+   socks5://username:password@ip:port
+   ```
+3. File example:
+   ```plaintext
+   socks5://127.0.0.1:1080
+   192.168.1.100:8080:user1:pass1
+   proxy.example.com:3128
+   ```
+
 ## 🔑 Initial Configuration
 1. **Claim Your License Key**
    - In our Discord server, type: `/claim YOUR_LICENSE`

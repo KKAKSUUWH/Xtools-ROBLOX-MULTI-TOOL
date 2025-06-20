@@ -80,7 +80,6 @@ ip:port:user:pass
 |----------------------------|-------------------------------|-------------------------|
 | Program closes immediately | Run as Administrator          | `contact support at discord` |
 | Invalid HWID               | Request HWID reset in Discord | `/request-hwid-reset`   |
-| Proxy validation failed    | Check geographic tags         | `--skip-proxy-check`    |
 
 ## 📜 Policy & Security
 ```diff

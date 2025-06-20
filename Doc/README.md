@@ -97,4 +97,4 @@ ip:port:user:pass
 • Knowledge Base: docs.xtools.com
 ```
 
-[![Open in Visual Studio Code](https://img.shields.io/badge/Open_in-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)](vscode://file/C:/Xtools)
+[![Join Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ajgUhUHEmG)

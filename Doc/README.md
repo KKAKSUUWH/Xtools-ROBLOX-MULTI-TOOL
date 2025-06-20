@@ -20,7 +20,8 @@
 ```mermaid
 flowchart LR
     A[Download Node.js] --> B[Run Installer] --> C[Check Version]
-    C --> node -v
+    C --> D["node -v"]
+
 ```
 
 ### 3. File Structure Setup

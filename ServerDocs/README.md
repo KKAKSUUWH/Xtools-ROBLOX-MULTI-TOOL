@@ -10,13 +10,6 @@ Roblox automation server with task queuing system and rate limiting. Handles acc
 - Cookie validation and rotation
 - Real-time statistics monitoring
 
-## Installation
-```bash
-git clone https://github.com/yourrepo/xtools.git
-cd Xtools
-go build -o xtools-server main.go
-```
-
 ## Configuration
 1. Set API key in `Xtools/Config/XtoolsConfig.json`:
 ```json

@@ -87,7 +87,6 @@ XTOOLS is engineered using top-tier threading logic, similar to that used in **S
 
 ---
 
-##🗄️ Docs/ServerDocs/Usage
 # DOCS : https://docs.xtools.ink
 # SERVER DOCS : https://sdocs.xtools.ink
 

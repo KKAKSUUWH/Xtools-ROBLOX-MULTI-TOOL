@@ -83,11 +83,28 @@ ip:port:user:pass
 
 ## 📜 Policy & Security
 ```diff
++ STRICTLY PROHIBITED:
++ ! ANY reverse engineering, decompilation, or modification of executable files
++ ! Redistribution of illegal/unauthorized copies
++ ! Bypassing license verification systems
+
++ VIOLATIONS WILL RESULT IN:
++ 1. Immediate license revocation
++ 2. Permanent hardware ban
++ 3. Legal prosecution for copyright infringement
++ 4. Report to authorities for DMCA violations
+```
+
+[❗ Legal Notice]
+```diff
++ This software contains intellectual property protections under 18 U.S.C. § 1836(b). 
++ Unauthorized access, use, or distribution may result in civil penalties and criminal prosecution.
+```
+
 + DO: Keep config files secure and valid
 + DO: Use geographic-specific proxies
 - DON'T: Share license keys
 - DON'T: Modify executable files
-```
 
 ## 🆘 Support Channels
 ```contact-cards

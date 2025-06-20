@@ -83,7 +83,7 @@ ip:port:user:pass
 
 ## 📜 Policy & Security
 ```diff
-+ DO: Keep config files secure
++ DO: Keep config files secure and valid
 + DO: Use geographic-specific proxies
 - DON'T: Share license keys
 - DON'T: Modify executable files

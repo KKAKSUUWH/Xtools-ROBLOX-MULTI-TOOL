@@ -154,6 +154,56 @@ Check task status
 }
 ```
 
+### POST /api/ChangePass
+Change account password
+
+**Request:**
+```json
+{
+  "cookie": "valid-cookie",
+  "old_password": "current-password"
+}
+```
+
+**Response:**
+```json
+{
+  "NewPassword": "new-password",
+  "NewCookie": "updated-cookie"
+}
+```
+
+---
+
+### POST /api/AccountInfo
+Fetch account information
+
+**Request:**
+```json
+{
+  "cookie": "valid-cookie"
+}
+```
+
+**Response:**
+```json
+{
+      "RapTotal": 0,
+      "TotalRobux": 0,
+      "Cursor": "",
+      "Done": true,
+      "Premium": false,
+      "HasPayment": false,
+      "CreationDate": "2025",
+      "TotalGroups": 0,
+      "TotalGroupsFund": 0,
+      "TotalVisits": 0,
+      "Hats": [],
+      "IsVerified": "false",
+      "RareItems": null
+}
+```
+
 ## Task System
 - Tasks are queued and executed concurrently
 - Each task gets unique `task_id`

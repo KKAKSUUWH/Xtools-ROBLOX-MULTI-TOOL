@@ -225,3 +225,4 @@ Fetch account information
 - Default pool size: 100 concurrent tasks
 - Mass task pool: 500 concurrent
 - Request rate monitoring via `ReqRate`
+## You can always change these values in your config folder

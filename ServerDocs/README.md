@@ -203,6 +203,7 @@ Fetch account information
       "RareItems": null
 }
 ```
+- `-1` values means there is an error while fetching the value
 
 ## Task System
 - Tasks are queued and executed concurrently

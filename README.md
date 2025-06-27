@@ -42,6 +42,7 @@ XTOOLS is engineered using top-tier threading logic, similar to that used in **S
 - **Email Verifier** – Verify account emails  
 - **Phone Verifier** – Verify phone numbers  
 - **Cookie Checker** – Validates stored cookies  
+- **Cookie Refresher** – Refresh session cookies to stay logged in  
 
 ### 👥 Social & Engagement
 - **Mass Friender** – Send mass friend requests  
@@ -61,6 +62,7 @@ XTOOLS is engineered using top-tier threading logic, similar to that used in **S
 - **Place Mass Favorite** – Favorite multiple places  
 - **Mass Up/Down Voter** – Vote manipulation on models  
 - **Gamepass Buyer** – Purchase Gamepasses automatically  
+- **Gamepass Creator** – Automatically create Gamepasses for assets  
 - **Private Server Generator** – Create private servers in bulk  
 - **Asset Inserter** – Boost asset visibility in toolbox  
 - **Clothing Scraper** – Scrape clothing (shirts/pants) from groups  
@@ -70,13 +72,14 @@ XTOOLS is engineered using top-tier threading logic, similar to that used in **S
 - **Account Sniper** – Snipe + auto-claim desired usernames  
 - **Mass Reporter** – Report accounts/games/groups in bulk  
 - **UpcToCookie** – Convert UPCs to usable cookies  
+- **Roblox Warning Bypasser** – Circumvent moderation warnings  
 
 ### 🧰 Utilities & Tools
 - **Open Input Folder** – Access your input folder quickly  
 - **Open Output Folder** – Open your results folder  
 - **Open Config Folder** – Easily modify configurations  
-- **Check Solver Balance** – View available captcha solver credits  
-
+- **Check Solver Balance** – View available captcha solver credits
+# 30+ tools 
 ---
 
 ## 🖼️ Screenshots

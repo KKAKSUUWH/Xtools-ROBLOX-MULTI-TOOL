@@ -47,8 +47,9 @@ Xtools/
 ### 📝 proxies.txt Formats
 ```proxy-examples
 # Premium Format (Recommended)
-socks5://user:pass@ip:port#country-region-city
-🌍 Example: socks5://admin:secure@45.67.89.1:1080#us-california-los_angeles
+protocol://user:pass@ip:port
+
+
 
 # Basic Formats
 http://user:pass@ip:port
@@ -113,3 +114,4 @@ ip:port:user:pass
 ```
 
 [![Join Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ajgUhUHEmG)
+

@@ -10,24 +10,11 @@
 
 ## 🚀 Installation & Setup
 
-### 1. Folder Preparation
-```powershell
-📁> mkdir Xtools
-📁> cd Xtools
-```
 
-### 2. Prerequisite Installation
-```mermaid
-flowchart LR
-    A[Download Node.js] --> B[Run Installer] --> C[Check Version]
-    C --> D["node -v"]
-
-```
-
-### 3. File Structure Setup
+### 1. File Structure Setup
 ```folder-structure
 Xtools/
-├── 🚀 XtoolsV1.1.exe
+├── 🚀 Xtools.exe
 ├── 📁 Config/
 │   └── ⚙️ XtoolsConfig.json
 ├── 📁 Input/
@@ -114,4 +101,5 @@ ip:port:user:pass
 ```
 
 [![Join Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ajgUhUHEmG)
+
 

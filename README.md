@@ -100,8 +100,8 @@ Have questions or need a custom tool built?
 
 [![Join Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ajgUhUHEmG)
 [![Visit Website](https://img.shields.io/badge/Visit%20Website-1E1E1E?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://xtools.ink)
-[![Purchase XTOOLS](https://img.shields.io/badge/Purchase%20XTOOLS-4CAF50?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://xtools.mysellauth.com/product/xtools)
-
+[![Purchase XTOOLS ( USD )](https://img.shields.io/badge/Purchase%20XTOOLS-4CAF50?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://xtools.mysellauth.com/product/xtools)
+[![Purchase XTOOLS ( ROBUX )](https://img.shields.io/badge/Purchase%20XTOOLS-4CAF50?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)]([https://xtools.mysellauth.com/product/xtools](https://www.roblox.com/games/100347655460951/XShop))
 ---
 
 > ⚠️ **Disclaimer:** XTOOLS is for educational and authorized testing purposes only. The developer is not responsible for misuse.

@@ -100,7 +100,7 @@ Have questions or need a custom tool built?
 
 [![Join Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ajgUhUHEmG)
 [![Visit Website](https://img.shields.io/badge/Visit%20Website-1E1E1E?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://xtools.ink)
-[![Purchase XTOOLS USD](https://img.shields.io/badge/Buy%20with-USD-4CAF50?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://xtools.mysellauth.com/product/xtools)
+[![Purchase XTOOLS USD](https://img.shields.io/badge/Buy%20with-USD-4CAF50?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://shop.xtools.ink)
 [![Purchase XTOOLS ROBUX](https://img.shields.io/badge/Buy%20with-ROBUX-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/games/100347655460951/XShop)
 ---
 

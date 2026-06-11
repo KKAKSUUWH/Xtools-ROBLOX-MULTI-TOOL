@@ -36,7 +36,7 @@ XTOOLS is engineered using top-tier threading logic, similar to that used in **S
 ### 👤 Account Management
 - **Account Generator** – Generate and cookie new Roblox accounts  
 - **Account Checker** – Check credentials and brute accounts  
-- **Account Humanizer** – Simulate human behavior  
+- **Account Humanizer V2** – Simulate human behavior with AI description ( FREE ) realistic display names and game fav as well top line human avatars
 - **Account Killer & Refresher** – Remove and replace dead cookies  
 - **Password Changer** – Mass password switcher  
 - **Email Verifier** – Verify account emails  
@@ -48,13 +48,15 @@ XTOOLS is engineered using top-tier threading logic, similar to that used in **S
 - **Mass Friender** – Send mass friend requests  
 - **Mass Follower** – Auto-follow users at scale  
 - **Mass Display Changer** – Change display names in bulk  
-- **Auto Social Link Setter** – Set social links on profiles/pages  
+- **Auto Social Link Setter** – Set social links on profiles/pages
+- **Ropro Likes** - boost your profile reputation
 
 ### 🧑‍🤝‍🧑 Groups
 - **Group Botter** – Join bots into groups  
 - **Group Wall Spammer** – Post messages to group walls  
 - **Group Sniper** – Claim open Roblox groups  
-- **Mass Leaver** – Leave multiple groups instantly  
+- **Mass Leaver** – Leave multiple groups instantly
+- **Group Annoucment likes** - likes a specific or recent group annoucment
 
 ### 🧱 Assets & Games
 - **Place Auto Uploader** – Upload .rbxl files  
